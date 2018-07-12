@@ -10,7 +10,7 @@ In order to measure the current, we have to build a Bare Bones version of the ES
 ESP8266 (supports various modules) Vertical Breakout Board (UK Seller but generally available)
 https://www.ebay.co.uk/itm/ESP8266-ESP-12-E-F-ESP-08-ESP-07-WiFi-Vertical-Breakout-Adapter-Board-UK-SELLER/400962734633
 
-Same as above but WITH an ESP8266-12f module to solder onto it (very easy)
+Same as above but WITH an ESP8266-12f module to solder onto it (very easy)  
 https://www.ebay.co.uk/itm/ESP8266-ESP-12F-WiFi-Wireless-Module-Vertical-Breakout-Adapter-Board-UK-FAST/401021445107
 
 Behind the scenes ESP library containing (among many other useful things) the function to determine why the module woke up  
